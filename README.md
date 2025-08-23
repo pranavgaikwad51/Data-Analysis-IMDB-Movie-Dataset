@@ -1,3 +1,5 @@
+Answered More than 20 Question That is Used in Real World Scenario To Clean data & Give Data to The Furthure Reports
+
  🎬 Data Analysis on IMDB Movie Dataset
 
 This project explores and analyzes the **IMDB Movie Dataset** to uncover insights about movies, directors, genres, ratings, revenues, and other key features. The analysis leverages **Python (Pandas, NumPy, Matplotlib, Seaborn)** to perform data cleaning, exploratory data analysis (EDA), and visualization.
